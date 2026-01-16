@@ -1,0 +1,1 @@
+System.register(["./chunk-legacy-CR51QBqO.js","./chunk-legacy-CdndQ8Vt.js"],function(e,t){"use strict";var n,r,u,c;return{setters:[function(e){n=e._},function(e){r=e.K,u=e.o,c=e.J}],execute:function(){e("default",n({},[["render",function(e,t){var n=c("router-view");return u(),r(n)}]]))}}});
